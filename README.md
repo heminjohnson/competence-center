@@ -1,4 +1,4 @@
-# Competence Center
+# Competence Center for Software Engineers
 
 ## General
 
