@@ -2,6 +2,62 @@
 
 ## General
 
+[Optimize for Core Web Vitals](https://youtu.be/AQqFZ5t8uNc)
+
+"In this hands-on talk, we cover tips & tricks for optimising your user-experience to meet the Core Web Vitals. We use tools like Lighthouse & DevTools, show you code snippets for fixes, and highlight how you too can get fast and stay fast." To remind, Core Web Vitals are the essential user-centric frontend performance metrics, promoted by Google.
+
+[Firefox 79](https://hacks.mozilla.org/2020/07/firefox-79/)
+
+An impressive set of new features, especially in developer tooling.
+
+[Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
+
+"This is all about speculative compilation, or just speculation for short, in the context of the JavaScriptCore virtual machine. This is a long post that tries to demystify a complex topic. It’s based on a two hour compiler lecture. We assume some familiarity with compiler concepts like intermediate representations (especially Static Single Assignment Form, or SSA for short), static analysis, and code generation. The intended audience is anyone wanting to understand JavaScriptCore better, or anyone thinking about using these techniques to speed up their own language implementation."
+
+[Designing for Cognitive Differences](https://alistapart.com/article/designing-for-cognitive-differences/)
+
+"Inclusive design is designing to be inclusive of as many users as possible, considering all aspects of diversity in users... ...accessibility and inclusiveness also mean considering more than just physical symptoms. What about users with cognitive differences like inattention, anxiety, and depression?"
+ 
+[The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/)
+
+An insightful and very well designed report, which "presents the combined results of the fourth annual Developer Ecosystem Survey conducted by JetBrains."
+
+[The npm Blog — npm v7 Series - Why Keep `package-lock.json`?](https://blog.npmjs.org/post/621733939456933888/npm-v7-series-why-keep-package-lockjson)
+
+One common question we’ve gotten a few times now, once we announce that npm v7 will include support for yarn.lock files, is “Why keep package-lock.json at all, then? Why not just use yarn.lock only?”
+
+[2020 Chrome Extension Performance Report](https://www.debugbear.com/blog/2020-chrome-extension-performance-report)
+
+Impressive numbers on how popular Chrome extensions affect browser performance.
+
+[You’ve only added two lines — why did that take two days!](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
+
+Good for self-reflection. Sometimes we rise to the surface from the deep dive into work and can't really explain to ourselves or others, where had we waste these hours...
+
+[Welcome to MDN front-end web developer learning pathway!](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+
+If you decided to become a front-end developer, here's how. 😉 
+
+[Deno is a Browser for Code](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
+
+A thorough walk through of the different mental model Deno has about managing dependent code.
+
+[VSCodium](https://github.com/VSCodium/vscodium)
+
+For those who don't like that their data is collected by various software without explicit consent: the VSCode build, where Telemetry is disabled.
+
+[A collection of free books from Springer](https://hnarayanan.github.io/springer-books/)
+
+Lots of various non-fiction titles, from "Brewing Science: A Multidisciplinary Approach" to "An Anthology of London in Literature, 1558-1914" or "Cosmology for the Curious".
+
+[WebGL guide (part 1/2)](https://xem.github.io/articles/webgl-guide.html)
+
+"This guide is a complete, summarised WebGL tutorial, with tiny interactive demos in each chapter." Excellent and comprehensive reading from one of the top devs in the field.
+
+[Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
+
+"Like so very, very many, I mourn Conway’s passing, and yet I also celebrate his life. I celebrate his accomplishments, I celebrate his curiosity, and I celebrate his skill at making important topics in mathematics engaging and interesting. One of the finest examples of that skill is the programming language FRACTRAN, the subject of this essay."
+
 [Tips for Writing Animation Code Efficiently](https://css-tricks.com/tips-for-writing-animation-code-efficiently/)
 
 A concise list of tips focused on how to efficiently build animations. With examples using GSAP.
@@ -112,6 +168,22 @@ Feathers brings together Node, React Native and the browser in a reasonably nove
 
 ## Javascript
 
+[Understanding Generators in JavaScript](https://www.taniarascia.com/understanding-generators-in-javascript/)
+
+A great detailed look into the topic. "They can maintain state, providing an efficient way to make iterators, and are capable of dealing with infinite data streams, which can be used to implement infinite scroll on the frontend of a web application, to operate on sound wave data, and more."
+
+[Refactoring optional chaining into a large codebase: lessons learned](https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/)
+
+Nice practical overview of how the code changes with optional chaining and what are the possible traps.
+
+[Stranger Things, JavaScript Edition](https://livecodestream.dev/post/2020-06-03-stranger-things-javascript-edition/)
+
+One of the favourite topics on JS. "We will look at some code snippets with surprising results, and we will do an explanation of what is going on, so that we can better understand our beloved programming language." Thanks Sagar for the suggestion!
+
+[Just JavaScript](https://justjavascript.com/)
+
+"Hey there! I'm Dan Abramov." — enough for this guy to say among frontend developers. It is the draft of his course on the language, each chapter of which drops into your spam mail box. Interesting thing about it is that texts are supplemented by illustrations of  [Maggie Appleton](https://illustrated.dev/), who is supercalifragilisticexpialidocious in technical sketching. Promising combo.
+
 [What's new in ECMAScript 2020](https://pawelgrzybek.com/whats-new-in-ecmascript-2020/)
 
 The list of new ECMAScript 2020 features is set in stone. Let's have a look at what's coming this year and a few practical examples. 
@@ -145,8 +217,47 @@ Having such knowledge should help you make informed decisions about when and why
 [The Best JavaScript meme I've ever seen, explained in detail](https://www.freecodecamp.org/news/explaining-the-best-javascript-meme-i-have-ever-seen/) 
 
 A good explanation on `Type Coercion` in JavaScript.
+
+## Typescript
+
+[Avoid Cluttering Your Code with Inferable Types](https://effectivetypescript.com/2020/04/28/avoid-inferable/)
+
+A few nice tips and reminders on daily Typescript routine with type definitions.
+
+[Inferring Object and Function Types in TypeScript](https://www.carlrippon.com/inferring-object-and-function-types-in-typescript/)
+
+A complicated exercise in building generic types. Worth examining.
+
+[TypeScript: validating external data](https://2ality.com/2020/06/validating-data-typescript.html)
+
+Painful topic for many of us: ensuring that incoming data has the desired structure and content. Here is a short overview of available approaches.
+
  
 ## UI
+
+[Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/)
+
+"In this article, we cover how we can improve websites legibility using some modern CSS techniques, great new technologies like variable fonts and putting into practise what we learned from doing scientific researches."
+
+[Style Stage from Modern CSS Solutions](https://stylestage.dev/)
+
+A modern CSS showcase styled by community contributions. CSS Zen Garden of 2020.
+
+[Colors in CSS](https://ishadeed.com/article/css-color/)
+
+Yet another excellent throughout look into one of the foundation CSS topics by Ahmad Shadeed.
+
+[Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+
+A mantra of the day.
+
+[A user’s guide to CSS variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
+
+CSS custom properties is a powerful and flexible bridge between scripting logic and styling (maintaining the separation of concerns, huh). The feature is more and more adopted for dynamic styling and theming. Worth to learn by heart.
+
+[Micro-Typography: How To Space And Kern Punctuation Marks And Other Symbols](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/)
+
+An in-depth look into a small, but important aspect of UI craft. Which we tend to miss being busy with heavy-weight client-side everything.
 
 [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 
@@ -179,6 +290,14 @@ Smooth and effortless to follow tutorial on Flexbox and CSS Grid. And pay attent
 [The Many Ways to Include CSS in JavaScript Applications](https://css-tricks.com/the-many-ways-to-include-css-in-javascript-applications/)
  
 ## React
+
+[Five common mistakes writing react components (with hooks)](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
+
+“Most of them are unlikely to affect the performance or appearance of the application. Probably nobody would notice, except for the developers working on the product, that something is wrong here, but...”
+
+[A (Mostly) Complete Guide to React Rendering Behaviour](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
+An interesting look into the subject and rules of thumb on how to choose between context and redux. And loads of links for further reading.
 
 [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 
