@@ -2,6 +2,10 @@
 
 ## General
 
+[Why users care about how you write code](https://kentcdodds.com/blog/why-users-care-about-how-you-write-code)
+
+"Your coding practices and technology choices impact user experience..." Nice short text on why and how. Thanks Dominik Lesch for the link. ;)
+
 [How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html)
 
 "Oh, that's Steves code. He quit two years ago. We don't touch it, it just works and no-one knows how. Just let it be." So I light up a cigarette which casts it's dim light on my rugged worn face. I'll say in a glass-gargling voice that'll put Batman to shame: "I'll figure it out".
@@ -172,6 +176,14 @@ Feathers brings together Node, React Native and the browser in a reasonably nove
 
 ## Javascript
 
+[GPU accelerated JavaScript](https://gpu.rocks/#/)
+
+You probably won't need it at your job, but really worth exploring for fun and experience. "GPU.js is a JavaScript Acceleration library for GPGPU (General purpose computing on GPUs) in JavaScript for Web and Node. GPU.js automatically transpiles simple JavaScript functions into shader language and compiles them so they run on your GPU. In case a GPU is not available, the functions will still run in regular JavaScript."
+
+[Mastering Hard Parts of JavaScript](https://dev.to/internettradie/series/8201)
+
+An exercise-based series of the articles, which covers some parts of the language that a bit more difficult to comprehend. 
+
 [How I Made a Piano in only 1kb of JavaScript](https://frankforce.com/?p=7617)
 
 "In this post I will go through every single line of my 1 kilobyte piano and explain how some of the trickier parts work." Astonishing stuff.
@@ -254,6 +266,10 @@ Painful topic for many of us: ensuring that incoming data has the desired struct
  
 ## UI
 
+[Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
+
+I bet you'll say "Aha!" or "Wow!" at least three times while reading these series.
+
 [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 
 "content-visibility enables the user agent to skip an element's rendering work, including layout and painting, until it is needed."
@@ -317,6 +333,10 @@ Smooth and effortless to follow tutorial on Flexbox and CSS Grid. And pay attent
 [The Many Ways to Include CSS in JavaScript Applications](https://css-tricks.com/the-many-ways-to-include-css-in-javascript-applications/)
  
 ## React
+
+[A Guide to Commonly Used React Component Libraries](https://maxrozen.com/guide-to-component-ui-libraries-react/)
+
+A concise overview of the subject with Pros and Cons lists. Useful for making a quick decision for your next side-project based on React.
 
 [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
 
