@@ -1,4 +1,4 @@
-# Competence Center for Software Engineers
+# Knowledge Base for Software Engineers
 
 ## General
 
@@ -182,6 +182,136 @@ Chances are very good that it’s hurting you more than it’s helping.”
 
 Feathers brings together Node, React Native and the browser in a reasonably novel (for Node) framework based around services and workflows rather than the more traditional routes and controllers.
 
+[Svelte 3: Rethinking Reactivity](https://javascriptweekly.com/link/62907/7a9c182c0b)
+
+Svelte is one of the most interesting UI frameworks out there as it’s not scared of taking a unique approach. Rather than running in the browser, Svelte runs at build time, compiling your app into more efficient runtime JavaScript. Svelte 3 takes more steps forward, particularly in helping you write less code.
+ 
+[Chrome 76 Beta](https://blog.chromium.org/2019/06/chrome-76-beta-dark-mode-payments-new.html)
+
+The beta version of Chrome 76 has dark mode, new features for PWA & more...
+Some new features have also been added to the Chrome DevTools:  What's New In DevTools (Chrome 76)
+  
+[The WWDC 2019 Keynote Highlights in 5 minutes](https://dev.to/sgvictorino/wwdc-2019-keynote-highlights-1470)
+
+Here are a few things that were announced on the WWDC 2019 that will change the way developers work on Apple platforms.
+ 
+[Soft skills every developer should have](https://thomlom.dev/soft-skills-developers/)
+
+Soft skills are important, many would agree that its more important than technical skills.
+Because once you get the right soft skills, technical skills come naturally. 
+ 
+[How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
+
+Using GraphQL with Apollo will get rid of a huge amount of complexity in your client-side state management and reduce the scope of your client side code to just how data should render in the UI (which is what it should have been all along).
+ 
+[Why you should learn vanilla JavaScript in isolation if you want to be a better developer](https://medium.com/javascript-in-plain-english/why-you-should-learn-vanilla-javascript-in-isolation-if-you-want-to-be-a-better-developer-dbc15a7e66bb)
+
+Why learn vanilla JavaScript when you’ve got React, Vue, Angular and Node.js?
+But that’s where many developers, especially new developers, go wrong. Here are some good reasons why you should learn vanilla JavaScript, even if you think you won’t need to.
+ 
+[Parcel ...the Webpack KILLER?!](https://www.youtube.com/watch?v=b-6BeS-22yw)
+
+Parcel is AWESOME. And in many, MANY cases, you don't need to haggle with Webpack anymore,
+which to some developers is a dream come true, because messing with a build system is one of the most painful parts of modern web application development.
+
+[I'm developing software and I don't Google any more.](https://dev.to/jjaimelr/im-developing-software-and-i-dont-google-any-more-3ecb)
+
+[DENO: A Secure runtime for JavaScript & TypeScript built with V8, Rust & Tokio](https://www.youtube.com/watch?v=z6JRlx5NC9E)
+
+Ryan Dahl originally created NodeJS about ten years ago but recently he’s been working on Deno , a new, non-Node compatible, TypeScript-focused runtime with some interesting features.
+
+[The 2019 FE Developer RoadMap](https://roadmap.sh/frontend)
+We all know that it can get really daunting to keep track of the available tools and technologies in the FE world, This roadmap can help steer your learning efforts in the right direction.
+ 
+If you are interested in [Backend](https://roadmap.sh/backend) or [Devops](https://roadmap.sh/devops)
+
+[The Weird History of JavaScript](https://javascriptweekly.com/link/66136/7a9c182c0b) 
+
+A fun, 10 minute fly through of the history of JavaScript. This 10 minutes will give you some fun facts for your next dev conversation.
+
+[Breaking Out of the “Tutorial Trap”](https://medium.com/better-programming/breaking-out-of-the-tutorial-trap-be973e4ed7aa)
+
+Tutorials are great!
+But, problems begin to surface when tutorials are used as shortcuts to circumvent actually learning the concepts involved.
+This articles gives a bunch of good tips for not falling into the "Tutorial Trap"
+
+Cheatsheets
+
+Its never too late to bookmark a cheat sheet!
+Here are a few: [ES6](https://devhints.io/es6), [React](https://devhints.io/react), [Vue](https://marozed.ma/vue-cheatsheet/), [Vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)   
+
+[Optional Chaining and Nullish Coalescing Now at Stage 3](https://javascriptweekly.com/link/67555/7a9c182c0b)
+
+JavaScript features go through various stages before they become official and this ?. operator to let you make chained property or function calls optional is now on the brink of making the standard. Also now at stage 3? Nullish Coalescing!
+
+[A Tour of Node 12's New Features](https://nodeweekly.com/link/66668/29e1f22a72)
+
+The ‘current’ Node 12.x branch is almost three months old.
+Adam Polak has done a good job of bringing together the new features of Node in one article, complete with code examples.
+
+[Who has the fastest website in F1?](https://jakearchibald.com/2019/f1-perf/)
+
+Jake does a detailed comparison of the performance of websites of the Formula1 teams.
+
+[What To Expect When You're Expecting To Drop IE11](https://dev.to/samthor/what-to-expect-when-you-re-expecting-to-drop-ie11-ifg)
+
+So you've decided to drop support for IE11 and move onto evergreen browsers only.
+With that in mind, here's a giant list of the features you should use, today, safely, without polyfills or feature detection.
+
+[Results of the 2019 Front-End Tooling Survey](https://javascriptweekly.com/link/80091/7a9c182c0b)
+
+Over 3,000 developers took part in this front-end tooling survey, answering a wide range of questions on things such as tooling and methodologies. React and Vue leapt up in popularity since last year. Webpack dominates in the bundler space, Jest dominates the testing space, and most of us are using ESLint.
+ 
+[JavaScript Visualized: Event Loop](https://thepracticaldev.us12.list-manage.com/track/click?u=85076d6fb7eea423ec9b0de34&id=23e2ba8d3e&e=115670fc03)
+
+What the event loop is and why you should care, explained through gifs.
+
+[The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
+
+This post answers the ‘Million Dollar Question’!
+ 
+[Github Actions — The What, Why, and How](https://medium.com/better-programming/github-actions-the-what-why-and-how-3868d5a86292)
+ 
+[29 Must Read Books For Programmers](https://dev.to/bosepchuk/29-must-read-programming-books-2n45)
+
+You'll benefit from reading them regardless of the kind of programming you do. And the knowledge in these books will remain relevant throughout your career.
+ 
+[20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+
+This post could help you add some points to your New Year’s resolutions list 😉 
+ 
+[How to conquer your fear of public speaking once and for all](https://www.freecodecamp.org/news/fear-of-public-speaking/)
+
+10 tips for getting over pre-conference talk jitters.
+ 
+[How to Add Testing to An Existing Project](https://javascriptweekly.com/link/80108/7a9c182c0b) 
+ 
+[Brendan Eich, Inventor of JavaScript, Did a Reddit AMA](https://javascriptweekly.com/link/80092/7a9c182c0b)
+ 
+He also helped co-found Mozilla and has just launched version 1.0 of Brave, a privacy-focused browser. Several of the questions are about Brendan’s work on JavaScript and may be of interest.
+
+[It's Time to Take the State of JavaScript 2019 Survey](https://stateofjs.com/)
+ 
+Now in its fourth year, the popular State of JavaScript survey returns, seeking your responses to help find out “which libraries developers want to learn next, which have the best satisfaction ratings, and much more”. The results will be shared once they’re live, as always.
+ 
+[101 Tips For Being A Great Programmer](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+ 
+[Oh, the Suspense!](https://react.christmas/2019/4)
+
+A brief and accessible introduction to what ‘suspense’ means in the React world, as of the [recent experimental releases](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
+ 
+[Postwoman: An API Request Builder and Tester](https://github.com/liyasthomas/postwoman)
+
+A free alternative to Postman, a popular app for debugging and testing HTTP APIs. Postwoman works in the browser and supports HTTP and WebSocket requests as well as GraphQL. Insomnia is a similar tool if you want to run something as a desktop app.
+ 
+[Six Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
+
+An overview of microfrontend patterns: advantages, drawbacks and implementation.
+ 
+[GraphQuill: Real-Time GraphQL API Exploration in VS Code](https://github.com/oslabs-beta/GraphQuill)
+
+A way to test GraphQL API endpoints from within VS Code so you don’t have to keep jumping between multiple tools.
+
 ## Javascript
 
 [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/)
@@ -253,6 +383,37 @@ Having such knowledge should help you make informed decisions about when and why
 [The Best JavaScript meme I've ever seen, explained in detail](https://www.freecodecamp.org/news/explaining-the-best-javascript-meme-i-have-ever-seen/) 
 
 A good explanation on `Type Coercion` in JavaScript.
+
+[Composing Software: An Introduction](http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=d7636d415c&e=38efc592a0)
+
+This introduction to a series of functional programming posts highlights the importance of building software in a composable way.
+
+[Why you should learn vanilla JavaScript in isolation if you want to be a better developer](https://medium.com/javascript-in-plain-english/why-you-should-learn-vanilla-javascript-in-isolation-if-you-want-to-be-a-better-developer-dbc15a7e66bb)
+
+Why learn vanilla JavaScript when you’ve got React, Vue, Angular and Node.js?
+But that’s where many developers, especially new developers, go wrong. Here are some good reasons why you should learn vanilla JavaScript, even if you think you won’t need to.
+
+[11 JavaScript Tricks You Won’t Find in Most Tutorials](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
+
+A set of super handy tricks for JS developers.
+
+[When and why you should use es6 arrow functions and when you shouldn't](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+
+At first glance, it may seem like arrow functions can be used in every way a regular JavaScript function can, but that is not true. Arrow functions, for very good reasons, are not meant to behave exactly the same way as regular JavaScript functions. It’s good to be aware of these nuances to avoid pitfalls. 
+ 
+[How The JS Event Loop and Async Programming Work](https://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=a34b934f87&e=38efc592a0)
+
+Perfect if single thread/event loop/blocking concepts are new to you.
++ 5 ways to better coding with async/await.
+
+[The Definitive Node.js handbook](https://www.freecodecamp.org/news/node-js-handbook/)
+
+This handbook is a getting started guide to Node.js
+
+[All the JavaScript you need to know before starting with React](https://medium.com/@samerbuna/all-the-javascript-you-need-to-know-before-starting-with-react-abe2ebffb067)
+
+React developers love the modern features in JavaScript and use them extensively in their projects.
+In this guide, Sameer goes over the most popular features that are used with React.
 
 ## Typescript
 
@@ -359,6 +520,31 @@ A “living document” (that intends to keep updated) that references different
 Smooth and effortless to follow tutorial on Flexbox and CSS Grid. And pay attention to the links to other articles in the footer! Almost all of them worth bookmarking!
 
 [The Many Ways to Include CSS in JavaScript Applications](https://css-tricks.com/the-many-ways-to-include-css-in-javascript-applications/)
+
+[4 reasons your z-index isn’t working (and how to fix it)](https://www.freecodecamp.org/news/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c/)
+
+A summary about debugging stacking context and z-index by Jessica Chan.
+
+[CSS Custom Properties In The Cascade](https://www.smashingmagazine.com/2019/07/css-custom-properties-cascade/)
+
+In this article, Miriam takes a deeper dive into the ‘CSS Custom Properties for Cascading Variables’ specification to ask,
+“Why are they called custom properties, how do they work in the cascade, and what else can we do with them?”
+Pushing past the “variable” metaphor, custom properties can provide new ways to balance context and isolation in CSS patterns and components.
+
+[Tips for Managing Design Systems](https://www.smashingmagazine.com/2019/05/tips-managing-design-systems/)
+
+[The State of CSS](https://2019.stateofcss.com/)
+
+After the success of the annual State Of Javascript survey, the survey was extended to the topics of CSS to identify the latest trends. See the results!
+
+A round-up about design systems challenges, from establishing the guiding principles and driving adoption to modularization guidelines, versioning and shipping, organizational strategies, involved disciplines and documentation. 
+
+[CSS Grid subgrid lands in Firefox Nightly](https://rachelandrew.co.uk/archives/2019/05/23/css-grid-subgrid-lands-in-firefox-nightly/)
+
+CSS Grid Subgrid is a step closer to become reality - feel free to try it out in Firefox Nightly,
+Here is a collection of related articles and resources from Rachel Andrew:
+CSS Subgrid News and demos
+Grid, content re-ordering and accessibility
  
 ## React
 
@@ -406,6 +592,10 @@ More interesting, perhaps, is the “update to the roadmap” later in the post 
 Since the release of React Hooks, people have been rapidly learning and adopting hooks in their production codebases because hooks drastically simplify the management of state and side effects in applications.
 
 This blog post shows you the pitfalls you could come across and how you can change your thinking to avoid them.
+
+[Making Sense of React Hooks](https://react.statuscode.com/link/54868/18487a58ba)
+
+If the new ‘hooks’ feature intrigues you, this article digs further into it, the motivations behind them, and answers some questions around their usage and implementation.
  
 ## Git
 
@@ -420,3 +610,7 @@ It’s an excellent example of explaining the context behind a change, of helpin
 [10 Git tricks to to save your time and sanity](https://dev.to/jacobherrington/10-git-tricks-to-save-your-time-and-sanity-289h)
 
 If you want more: [10 More Git Tricks That You Should Know](https://dev.to/jacobherrington/10-more-git-tricks-that-you-should-know-3bbp)
+
+[Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
+You want to learn/get better at git, But you don’t just want to learn commands, you want to understand what you are using, then this article is meant for you!
