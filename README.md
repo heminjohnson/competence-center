@@ -2,6 +2,32 @@
 
 ## General
 
+[Node.js 8 is Not Supported from 2020 (So Update Now).](https://blog.risingstack.com/update-nodejs-8-end-of-life-no-support/)
+
+Node 8 won’t get any more maintenance updates after December 31 this year?
+Here’s how to think about migrating.
+
+[Instrinsic Web Design: The new “responsive”](https://www.browserlondon.com/blog/2019/08/19/should-we-still-be-selling-responsive-web-design/)
+
+Should we still be selling responsive web design?
+
+[Demystifying Modern Frontend Jargon](https://dev.to/ananyaneogi/demystifying-modern-frontend-jargon-1agf)
+
+a breakdown of confusing frontend jargon into simple terms.
+
+[Things you may not know about Chrome DevTools](https://thepracticaldev.us12.list-manage.com/track/click?u=85076d6fb7eea423ec9b0de34&id=2f9bb4e374&e=115670fc03)
+
+DevTools tips you probably wished you knew about sooner!
+
+[How to Write a Good Piece of Code](https://www.cdevn.com/how-to-write-a-good-piece-of-code/)
+
+The first and probably most important step to writing a good piece of code is to not code at all.
+Have you validated your assumptions?
+What is the scope of the code?
+How will it affect existing code?
+Has someone already written this code?
+Being able to answer questions like these are the foundation of a good piece of code.
+
 [5 ways to create a junior-developer friendly culture](https://dev.to/httpspauline/5-ways-to-create-a-junior-developer-friendly-culture-3n4)
 
 An absolute MUST READ for mid/senior level developers who get the opportunity to work with Junior developers 
