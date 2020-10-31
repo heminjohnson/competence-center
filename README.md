@@ -2,6 +2,10 @@
 
 ## General
 
+[How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html)
+
+"Oh, that's Steves code. He quit two years ago. We don't touch it, it just works and no-one knows how. Just let it be." So I light up a cigarette which casts it's dim light on my rugged worn face. I'll say in a glass-gargling voice that'll put Batman to shame: "I'll figure it out".
+
 [Optimize for Core Web Vitals](https://youtu.be/AQqFZ5t8uNc)
 
 "In this hands-on talk, we cover tips & tricks for optimising your user-experience to meet the Core Web Vitals. We use tools like Lighthouse & DevTools, show you code snippets for fixes, and highlight how you too can get fast and stay fast." To remind, Core Web Vitals are the essential user-centric frontend performance metrics, promoted by Google.
@@ -168,6 +172,10 @@ Feathers brings together Node, React Native and the browser in a reasonably nove
 
 ## Javascript
 
+[How I Made a Piano in only 1kb of JavaScript](https://frankforce.com/?p=7617)
+
+"In this post I will go through every single line of my 1 kilobyte piano and explain how some of the trickier parts work." Astonishing stuff.
+
 [Understanding Generators in JavaScript](https://www.taniarascia.com/understanding-generators-in-javascript/)
 
 A great detailed look into the topic. "They can maintain state, providing an efficient way to make iterators, and are capable of dealing with infinite data streams, which can be used to implement infinite scroll on the frontend of a web application, to operate on sound wave data, and more."
@@ -220,6 +228,17 @@ A good explanation on `Type Coercion` in JavaScript.
 
 ## Typescript
 
+[Announcing TypeScript 4.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-rc/)
+
+* Variadic Tuple Types
+* Labeled Tuple Elements
+* Class Property Inference from Constructors
+* Short-Circuiting Assignment Operators
+* unknown on catch Clauses
+* Custom JSX Factories
+* Speed Improvements in build mode with --noEmitOnError
+* --incremental with --noEmit
+
 [Avoid Cluttering Your Code with Inferable Types](https://effectivetypescript.com/2020/04/28/avoid-inferable/)
 
 A few nice tips and reminders on daily Typescript routine with type definitions.
@@ -234,6 +253,14 @@ Painful topic for many of us: ensuring that incoming data has the desired struct
 
  
 ## UI
+
+[content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
+
+"content-visibility enables the user agent to skip an element's rendering work, including layout and painting, until it is needed."
+
+[The CSS background-image property as an anti-pattern](https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern)
+
+"The CSS back­ground-image prop­er­ty allowed us to do some amaz­ing things, but in most cas­es, it’s time to leave it behind."
 
 [Modern CSS Techniques To Improve Legibility](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/)
 
@@ -290,6 +317,10 @@ Smooth and effortless to follow tutorial on Flexbox and CSS Grid. And pay attent
 [The Many Ways to Include CSS in JavaScript Applications](https://css-tricks.com/the-many-ways-to-include-css-in-javascript-applications/)
  
 ## React
+
+[TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
+
+"Please note that this is just an opinion, not a suggestion or anything else. If you like to use React.FC and it works for you, please continue to do so!"
 
 [Five common mistakes writing react components (with hooks)](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
 
