@@ -2,6 +2,14 @@
 
 ## General
 
+[The Cloak of Invisibility for your texts](https://github.com/KuroLabs/stegcloak)
+
+An interesting tool that "hides secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters." Pretty interesting reading, in case you'd like to dive into the source code.
+
+[npkill — Easily find and remove old and heavy node_modules folders](https://github.com/voidcosmos/npkill)
+
+A small, really handy tool: "allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay!". Exactly. Yay.
+
 [Why users care about how you write code](https://kentcdodds.com/blog/why-users-care-about-how-you-write-code)
 
 "Your coding practices and technology choices impact user experience..." Nice short text on why and how. Thanks Dominik Lesch for the link. ;)
@@ -176,6 +184,14 @@ Feathers brings together Node, React Native and the browser in a reasonably nove
 
 ## Javascript
 
+[Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/)
+
+A comprehensive yet easy digestible long read on the topic with lots of examples. Essential fundamentals.
+
+[Building a modern backend with TypeScript, PostgreSQL and Prisma](https://www.prisma.io/blog/series/modern-backend-bdes2ps5kibb)
+
+Interesting combination of the streams and articles, in four parts. Covers a bunch of the aspects of the practical backend programming.
+
 [GPU accelerated JavaScript](https://gpu.rocks/#/)
 
 You probably won't need it at your job, but really worth exploring for fun and experience. "GPU.js is a JavaScript Acceleration library for GPGPU (General purpose computing on GPUs) in JavaScript for Web and Node. GPU.js automatically transpiles simple JavaScript functions into shader language and compiles them so they run on your GPU. In case a GPU is not available, the functions will still run in regular JavaScript."
@@ -240,6 +256,10 @@ A good explanation on `Type Coercion` in JavaScript.
 
 ## Typescript
 
+[Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
+
+"A common perspective is that types are restrictions." This article gives some another mental model for reasoning about types.
+
 [Announcing TypeScript 4.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-rc/)
 
 * Variadic Tuple Types
@@ -265,6 +285,14 @@ Painful topic for many of us: ensuring that incoming data has the desired struct
 
  
 ## UI
+
+[Read me!](https://readymag.com/designs/readme/)
+
+"More and more text-based content is shared over the Internet, but not everything is thoroughly read. In fact, by the time this article reaches the next screen, a significant share of you will have already stopped rea..." An impressively designed reading on reading experience and readability.
+
+[Linearly Scale font-size with CSS clamp() Based on the Viewport](https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/)
+
+"Here, we’re going to explore a different way to linearly scale text between a set of minimum and maximum sizes as the viewport’s width increases, with the intent of making its behaviour at different screen sizes more predictable — All in a single line of CSS, thanks to clamp()."
 
 [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
 
@@ -334,6 +362,10 @@ Smooth and effortless to follow tutorial on Flexbox and CSS Grid. And pay attent
  
 ## React
 
+[Rewriting Facebook's "Recoil" React library from scratch in 100 lines](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/)
+
+I once read that all good software should be simple enough that anyone could rewrite it if they needed to. Recoil has a lot of features that I haven’t implemented here, but it’s exciting to see such a simple and intuitive design that can reasonably be implemented by hand.
+
 [A Guide to Commonly Used React Component Libraries](https://maxrozen.com/guide-to-component-ui-libraries-react/)
 
 A concise overview of the subject with Pros and Cons lists. Useful for making a quick decision for your next side-project based on React.
@@ -376,6 +408,10 @@ Since the release of React Hooks, people have been rapidly learning and adopting
 This blog post shows you the pitfalls you could come across and how you can change your thinking to avoid them.
  
 ## Git
+
+[git-extras](https://github.com/tj/git-extras/blob/master/Commands.md)
+
+"Little git extras." — humble name, but impressive set of handy command-line utils to make work with git bliss.
 
 [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 
