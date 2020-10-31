@@ -2,6 +2,33 @@
 
 ## General
 
+[5 ways to create a junior-developer friendly culture](https://dev.to/httpspauline/5-ways-to-create-a-junior-developer-friendly-culture-3n4)
+
+An absolute MUST READ for mid/senior level developers who get the opportunity to work with Junior developers 
+and for Tech-leads trying to make improvements to their engineering culture.
+
+[Great Developers Never Stop Learning](https://towardsdatascience.com/great-developers-never-stop-learning-77b9ce867eac)
+
+7 ways I.T. Professionals can foster a Continuous Learning mindset.
+
+[Storybook 5.2 Released: The Component Development Tool](https://javascriptweekly.com/link/77440/7a9c182c0b)
+
+Storybook is a popular tool for working on UI components for React, Vue, and Angular,
+and version 5.2 now adds ‘zero config’ support for generating documentation for your components (plus React hooks and improved TypeScript support).
+
+[The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/)
+
+It’s due in early November.
+
+[A Great Explanation of JavaScript Reactivity](https://javascriptweekly.com/link/50264/7a9c182c0b)
+
+Understand what ‘reactivity’ is and how it works by way of implementing your own system that’s similar to Vue’s approach.
+There’s also a 15 minute video version, if you prefer.
+
+[Learn React in 10 tweets](https://mobile.twitter.com/chrisachard/status/1175022111758442497)
+
+A super concise explanation of React concepts via tweets.
+
 [How to write clean code](https://www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae/)
 
 Writing code is one thing, but writing clean, readable code is another thing. But what is “clean code?”
