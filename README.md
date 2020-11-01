@@ -296,10 +296,6 @@ Now in its fourth year, the popular State of JavaScript survey returns, seeking 
  
 [101 Tips For Being A Great Programmer](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
  
-[Oh, the Suspense!](https://react.christmas/2019/4)
-
-A brief and accessible introduction to what ‘suspense’ means in the React world, as of the [recent experimental releases](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
- 
 [Six Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 
 An overview of microfrontend patterns: advantages, drawbacks and implementation.
@@ -592,6 +588,10 @@ This blog post shows you the pitfalls you could come across and how you can chan
 [Making Sense of React Hooks](https://react.statuscode.com/link/54868/18487a58ba)
 
 If the new ‘hooks’ feature intrigues you, this article digs further into it, the motivations behind them, and answers some questions around their usage and implementation.
+
+[Oh, the Suspense!](https://react.christmas/2019/4)
+
+A brief and accessible introduction to what ‘suspense’ means in the React world, as of the [recent experimental releases](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
  
 ## Git
 
