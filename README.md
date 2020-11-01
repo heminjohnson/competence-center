@@ -300,10 +300,6 @@ Now in its fourth year, the popular State of JavaScript survey returns, seeking 
 
 A brief and accessible introduction to what ‘suspense’ means in the React world, as of the [recent experimental releases](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
  
-[Postwoman: An API Request Builder and Tester](https://github.com/liyasthomas/postwoman)
-
-A free alternative to Postman, a popular app for debugging and testing HTTP APIs. Postwoman works in the browser and supports HTTP and WebSocket requests as well as GraphQL. Insomnia is a similar tool if you want to run something as a desktop app.
- 
 [Six Patterns for Microfrontends](https://blog.bitsrc.io/6-patterns-for-microfrontends-347ae0017ec0)
 
 An overview of microfrontend patterns: advantages, drawbacks and implementation.
