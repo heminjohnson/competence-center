@@ -2,6 +2,30 @@
 
 ## General
 
+[Deep Dive Into Modern Web Development](https://fullstackopen.com/en/)
+
+"Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js." — the full course and the project, held at the Department of Computer Science at the University of Helsinki in Spring 2020, in digital format. Beautifully implemented.
+
+[Coding with Punch cards](https://retrocomputing.stackexchange.com/questions/16112/what-did-code-on-punch-cards-do-with-the-other-six-bits-per-column)
+
+"In the fifties and sixties, program source code was typically stored on punch cards, one card per line." They were basically sheets of paper. Normally programmer had a few hours a week to access a mainframe, and put a pile of the cards into the input slot. Kind of like as with ATM. If machine couldn't read the source code or there was an error in computation, programmer had yet another week to figure out an issue, prepare another pile of the punch cards and to make another try. The text dives in details on how the information was encoded in these cards.
+
+[The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+
+Insightful look on the early history of browsers and approaches to styling the digital output.
+
+[Crafting Functions](https://stopa.io/post/251)
+
+A clear look at the question which we tend to answer to ourselves, without even asking: how do we write good functions?
+
+[How to read a code](https://www.iamjonas.me/2020/08/how-to-read-code.html)
+
+A long read where the author takes the lesson from the infamous "How to read a book" and applies it to the source code, adding some flavours of the personal, pretty extensive, experience.
+
+[Jack of All Trades](https://medium.com/rewrite-tech/jack-of-all-trades-96cd99acd04d)
+
+"Passion, grasp of the fundamentals, mastery, and resilience — the four pillars for a successful career in software development". The text by the member of our FE Team, Michael Eze, published back in few weeks in our cozy Medium blog. Claps and hugs! And welcome to contribute as well.
+
 [The Cloak of Invisibility for your texts](https://github.com/KuroLabs/stegcloak)
 
 An interesting tool that "hides secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters." Pretty interesting reading, in case you'd like to dive into the source code.
@@ -306,6 +330,38 @@ A way to test GraphQL API endpoints from within VS Code so you don’t have to k
 
 ## Javascript
 
+[What are logical assignment operators?](https://mattperry.is/writing-code/what-are-javascripts-logical-assignment-operators)
+
+The explanation of the of the feature, introduced in Typescript 4 and Stage 4 Draft of ECMAScript. The set of new operators which allows to write more concise and expressive code.
+
+[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/)
+
+The book greatly explores the topic. With accent to the practice. "It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to)." Tip: keep it open in browser for a while, learn its TOC. And while writing code, jump into the book from time to time to deepen the understanding of the language feature you use.
+
+[What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs#readme)
+
+"A list of funny and tricky JavaScript examples. The primary goal of this list is to collect some crazy examples and explain how they work, if possible. ... If you are a professional developer, you can consider these examples as a great reference for all of the quirks and unexpected edges of our beloved JavaScript."
+
+[A Collection of JavaScript Tips Based on Common Areas of Confusion or Misunderstanding](https://dev.to/nas5w/a-collection-of-javascript-tips-based-on-common-areas-of-confusion-or-misunderstanding-42j5)
+
+A nice text, written for easy reading. Worth reading through and check that you understand all mentioned topics. Then don't forget to reward yourself with cookie. The real cookie, not a browser one.
+
+[Working with JavaScript Media Queries](https://css-tricks.com/working-with-javascript-media-queries/)
+
+Did you know that they exist? Super-handy feature, as you can imagine. "Working with media queries in JavaScript is very different than working with them in CSS, even though the concepts are similar: match some conditions and apply some stuff."
+
+[How Node.js Is Addressing the Challenge of Ryan Dahl’s Deno](https://thenewstack.io/how-node-js-is-addressing-the-challenge-of-ryan-dahls-deno/)
+
+Node takes conservative path, targeting large software vendors. Naming among priorities developer experience, stability, operational qualities, Node.js maintainer experience, and up-to-date technology and APIs. And Deno takes an innovative path, shaping the future of the server-side JavaScript.
+
+[Deno 1.5](https://deno.land/posts/v1.5)
+
+It develops incredibly fast. Feels like the team and community are super-courageous. Next Big Thing, Big Hype. So keep the hand on pulse.
+
+[Node.js v15.0.0](https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278) and [npm 7](https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/)
+
+First comes with a second in bundle. But you probably want to upgrade just npm. Anyways, there are some important new features which are useful to learn.
+
 [Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/)
 
 A comprehensive yet easy digestible long read on the topic with lots of examples. Essential fundamentals.
@@ -408,6 +464,18 @@ React developers love the modern features in JavaScript and use them extensively
 In this guide, Sameer goes over the most popular features that are used with React.
 
 ## Typescript
+
+[Stop Using 'any', There's a Type For That](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
+
+This will kind of help to fight your inner child and to avoid switching off type checking using any​​.
+
+[The Single-Valued Type Pattern](https://spin.atomicobject.com/2020/10/05/single-valued-type-pattern/)
+
+And the clever use of the type any​​ for "creating flexible generic APIs", yet guarded by the type system.
+
+[Template Literal Types](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1-beta/#template-literal-types)
+
+A neat addition to the TS 4.1 (among others). Like JS template strings, but for types! Might be like a breeze in some cases.
 
 [Types as axioms, or: playing god with static types](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)
 
